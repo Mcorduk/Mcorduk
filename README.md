@@ -40,3 +40,5 @@
 ![LinuxMint Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcorduk&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Mcorduk's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mcorduk&layout=compact&theme=gotham&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
