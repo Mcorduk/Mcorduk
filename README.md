@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mcorduk,
-- 🧑‍💼 Back End Development Intern at [Elmali Tech](http://www.elmaligroup.com/).
+- 🧑‍💼 Full Stack Development Enthusiast.
 - 👀 I’m interested in Full Stack Web Development!
 - 🌱 I’m currently working in Backend Development.
 - 💻 I’m developing Frontend applications in my own time.
