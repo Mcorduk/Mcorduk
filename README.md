@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mcorduk,
 - 🧑‍💼 Full Stack Development Enthusiast.
 - 👀 I’m interested in Full Stack Web Development!
-- 🌱 I’m currently working in Backend Development.
+- 🌱 I’m currently working on Backend Development.
 - 💻 I’m developing Frontend applications in my own time.
 - 💞️ I’m looking to collaborate on Open source projects!
 - 📫 How to reach me https://www.linkedin.com/in/mcorduk/
